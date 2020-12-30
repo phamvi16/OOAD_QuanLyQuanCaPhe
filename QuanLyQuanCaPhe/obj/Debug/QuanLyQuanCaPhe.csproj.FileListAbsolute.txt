@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\NTMH Data\OOAD\submit\OOAD_QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+C:\Users\HP\Documents\NTMH Data\OOAD\submit\OOAD_QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+C:\Users\HP\Documents\NTMH Data\OOAD\submit\OOAD_QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+C:\Users\HP\Documents\NTMH Data\OOAD\submit\OOAD_QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csprojAssemblyReference.cache
+C:\Users\HP\Documents\NTMH Data\OOAD\submit\OOAD_QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+C:\Users\HP\Documents\NTMH Data\OOAD\submit\OOAD_QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\HP\Documents\NTMH Data\OOAD\submit\OOAD_QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\NTMH Data\OOAD\submit\OOAD_QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+C:\Users\HP\Documents\NTMH Data\OOAD\submit\OOAD_QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
